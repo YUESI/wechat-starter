@@ -18,7 +18,7 @@ app.use('/wechat', wechatRouter);
 
 // Welcome
 app.get('/', function(req, res) {
-    res.status(200).send('Welcome to Anywhere Node Server!');
+    res.status(200).send('Welcome to Wechat Node Server!');
 });
 
 app.listen(18080, function() {

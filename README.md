@@ -5,8 +5,8 @@
 注：将Config.json中的信息替换成你自己的配置
 
 ```
-git clone https://github.com/frankwaizi/wechat-starter.git
-cd wechat-starter
+git clone https://github.com/YUESI/yuesi.wechat.git
+cd yuesi.wechat
 npm install
 npm start
 ```
